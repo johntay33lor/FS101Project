@@ -1,0 +1,28 @@
+.body {
+    background-color: black;
+    font-family: Roboto;
+}
+
+.mb-3 .mb-4 {
+    font-family: Roboto;
+    color:black;
+}
+
+.interesttext {
+    font-family: Roboto; 
+
+}
+
+.card {
+    display: flex; justify-content: space-around;
+}
+
+.thumbnail {
+    display: flex; justify-content: center; padding-top: 2em; padding-bottom: 2em;
+    align-items: center;
+}
+
+.btn {
+    background-color: #335c81;
+}
+
